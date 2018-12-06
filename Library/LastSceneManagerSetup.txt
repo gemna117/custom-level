@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Content/tutorials/t20/t20-scene.unity
   isLoaded: 1
   isActive: 1
